@@ -1,0 +1,7 @@
+https://github.com/SokoloiD?tab=repositories
+
+https://github.com/munraito/made_hpc/blob/main/hw1/top500_analysis.ipynb
+
+https://github.com/biquaternion/MADE2021_HPC/blob/master/homework/01/notebooks/homework1.ipynb
+
+https://github.com/StepDan23/MADE_hpc/blob/master/hw_1/hw_1.ipynb
